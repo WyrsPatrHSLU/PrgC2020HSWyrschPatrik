@@ -9,7 +9,7 @@ int main (int argc, char* argv[])
 	if( argc != 4)
 	{
 		//usage message
-		printf("usage: logicOPerators val 1 val2 val3\n");
+		printf("usage: logicOPerators val1 val2 val3\n");
 	}
 	else
 	{
